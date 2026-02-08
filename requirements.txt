@@ -1,0 +1,2 @@
+# Requires: unlikely-postponement
+# (Not available on PyPI)
